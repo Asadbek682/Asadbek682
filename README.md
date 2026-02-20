@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Asadbek
 [![GitHub followers](https://img.shields.io/github/followers/Asadbek682?style=social)](https://github.com/Asadbek682)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AsadbekUbaydullaev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AsadbekXanhodjaev/)
 <a href="https://user-badge.committers.top/uzbekistan/Asadbek682">
   <img src="https://user-badge.committers.top/uzbekistan/Asadbek682.svg" alt="Committers Top" />
 </a>

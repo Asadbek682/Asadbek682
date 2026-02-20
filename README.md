@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Abbos
+# 👋 Hello, I'm Asadbek
 [![GitHub followers](https://img.shields.io/github/followers/Asadbek682?style=social)](https://github.com/Asadbek682)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AbbosUbaydullaev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/AsadbekUbaydullaev/)
 <a href="https://user-badge.committers.top/uzbekistan/Asadbek682">
   <img src="https://user-badge.committers.top/uzbekistan/Asadbek682.svg" alt="Committers Top" />
 </a>
@@ -8,7 +8,7 @@
 <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding" width="230px">
 
  <div class="typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TASHER;+Software+Engineer;+Cplusplus+Developer;"  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asadbek;+Software+Engineer;+Cplusplus+Developer;"  
    alt="Typing SVG">
     </div>
 
